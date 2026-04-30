@@ -1,0 +1,115 @@
+National Transportation Safety Board 
+Office of the Chief Information Officer 
+FOIA Office (CIO-40) 
+Washington, DC 20594 
+April XX, 2026 
+XXX
+XXX
+XXX
+XXX
+XXX 
+Re: National Transportation Safety Board (NTSB) 
+Freedom of Information Act (FOIA) No. FOIA-XXXXXX
+       March 21, XXX, XXX (XXX)  
+Dear XXX: 
+This letter responds to your FOIA request dated XXX, seeking the following 
+records related to the above-referenced accident investigation: 
+1. Final or Completed Report / Technical Summary (if any) Any final or completed NTSB 
+report, technical memorandum, factual report, readout summary, briefing document, or other 
+written summary prepared by the NTSB concerning China Eastern Airlines Flight MU5735. 
+If no single “final report” exists, please provide the most final or complete NTSB-produced 
+written summary or summaries that memorialize the NTSB’s assistance in the investigation 
+and its results in finalized form.
+2. Communications Log or Index with CAAC (March 21–May 21, 2022) Any existing 
+communication log, index, tracker, register, or similar record maintained by the NTSB that 
+lists or summarizes communications between the NTSB and the Civil Aviation 
+Administration of China (CAAC) relating to China Eastern Airlines Flight MU5735 for the 
+period March 21, 2022, through May 21, 2022.
+As you may know, the China government was the lead investigative authority on 
+Investigation No. DCA22WA102, in accordance with Aircraft Accident and Incident Investigation, 
+Annex 13 to the Convention on International Civil Aviation (9th ed. 2001). 
+The Safety Board’s enabling statute, 49 U.S.C. § 1114(f) addresses the Board’s compliance 
+with Annex 13 to the Convention on International Civil Aviation, and precludes the Board from 
+releasing information from a foreign investigation, until the investigation fulfills specific criteria: 
+(f) FOREIGN INVESTIGATIONS.— 
+1 In general.—Notwithstanding any other provision of law, neither the 
+Board, nor any agency receiving information from the Board, shall 
+disclose records or information relating to its participation in foreign 
+aircraft accident investigations; except that – 
+(A) the Board shall release records pertaining to such an investigation when the 
+country conducting the investigation issues its final report or 2 years following 
+the date of the accident, whichever occurs first; and 
+(B )the Board may disclose records and information when authorized to do so 
+by the country conducting the investigation. 
+In this case, two years have passed since the date of the accident. Accordingly, the Board is 
+releasing certain records relating to this investigation. 
+The Safety Board located 2,818 pages of records responsive to your request. Enclosed are 
+1,959 pages, two Excel spreadsheets, and three FDR files, a total of 13 files, which are being 
+delivered via Box, a secure cloud-based sharing platform. However, we withheld certain 
+information partially and in full pursuant to the exemptions specified below. 
+We withheld, pursuant to 5 U.S.C. 552(b)(4), commercially sensitive or proprietary information 
+voluntarily given us “of a kind that would customarily not be released to the public by the person 
+from whom it was obtained.” See Critical Mass Project v. NRC, 975 F.2d 871 (D.C. Cir. 1992). 
+Pursuant to this exemption, we withheld 26 pages in full consisting of manuals and proprietary 
+data. 
+We determined that certain documents are exempt from release under 5 U.S.C. § 552(b)(5) 
+(“Exemption 5”), which exempts from disclosure “inter-agency or intra-agency memorandums or 
+letters that would not be available by law to a party other than an agency in litigation with the 
+agency, provided that the deliberative process privilege shall not apply to records created 25 years 
+or more before the date on which the records were requested.” Exemption 5 protects agency 
+records that are predecisional and deliberative. National Wildlife Fed’n v. U.S. Forest Serv., 861 
+F.2d 1114 (9th Cir. 1988); Jowett, Inc. v. Department of the Navy, 729 F. Supp. 871 (D.D.C. 1989). 
+Overall, Exemption 5 justifies withholding material that reflects the Safety Board’s deliberative 
+process in order to ensure the free flow of information during investigations and other agency 
+work. Mead Data Cent., Inc. v. Department of the Air Force, 566 F.2d 242, 256 (D.C. Cir. 1977).  
+Pursuant to this exemption, we partially redacted 122 pages and withheld 478 pages in full 
+consisting of pre-decisional, deliberative material, preliminary information, analysis, and draft 
+documents. 
+Personal information including autopsy information and graphic photographs, Social Security 
+numbers, and other personally identifying details is withheld pursuant to 5 U.S.C. § 552(b)(6), 
+which exempts from disclosure “personnel and medical files and similar files the disclosure of 
+which would constitute a clearly unwarranted invasion of personal privacy,” including items such 
+as personal addresses, phone numbers, email addresses and similar sensitive data. Pursuant to this 
+exemption, we partially redacted 192 pages and withheld 355 pages in full containing personal 
+privacy-protected information. 
+In several documents enclosed with this letter, we determined that exemption(s) to the FOIA 
+required that we redact a limited amount of material. The redactions are clearly marked, and the 
+applicable exemption(s) are noted at the place of the redaction. 
+With respect to the FDR files, specialized software is required to import and interpret the data. 
+Even with the appropriate software, the data would not be usable without the manufacturer’s 
+proprietary documentation. Additionally, the Safety Board does not possess any CVR data 
+responsive to your request. 
+Some of the responsive documents identified during our search originated with another 
+federal agency, the Federal Aviation Administration (FAA). Pages or portions of pages that 
+originated with the FAA have been marked as “Referred” or "Other Reason." In accordance with 
+standard government practice, these documents have been referred to the FAA for a determination 
+on whether they may be released to you. You will receive a response from the FAA directly 
+regarding these records. 
+We did not locate any other records responsive to your request other than this information. 
+The NTSB has completed processing your FOIA request, and we are waiving all fees at this 
+time. In accordance with the standard codified in the statute, even where an exemption would 
+otherwise apply, agencies may withhold information only when (1) the agency reasonably foresees 
+that disclosure would harm an interest protected by one of the nine exemptions that FOIA 
+enumerates; or (2) disclosure is prohibited by law.  See 5 U.S.C. § 552(a)(8)(A)(i). The NTSB 
+considered the foreseeable harm standard when reviewing records and applying FOIA exemptions 
+in response to this FOIA request and has determined that releasing the records would create a 
+foreseeable harm. Disclosure of the information would chill agency officials’ ability to candidly 
+discuss policy options and confuse the public where options being considered are not ultimately 
+adopted. 
+You may contact our FOIA Public Liaison at 202-314-6540, for any further assistance and 
+to discuss any aspect of your request. Additionally, you may contact the Office of Government 
+Information Services (OGIS) at the National Archives and Records Administration (NARA) to 
+inquire about the FOIA mediation services they offer. The contact information for OGIS is as 
+follows: OGIS, NARA, 8601 Adelphi Road-OGIS, College Park, Maryland 20740-6001, e-mail at 
+ogis@nara.gov; telephone at 202-741-5770; toll free at 1-877-684-6448; or facsimile at 202-741
+5769. 
+If you are not satisfied with the response to this request, you have the right to appeal this 
+determination under the FOIA. You may administratively appeal by writing to the NTSB, Attn:  
+Ms. Dana Schulze, Managing Director, 490 L'Enfant Plaza, SW, Washington, D.C. 20594. Your  
+appeal must be postmarked or electronically transmitted within 90 days of the date of the response  
+to your request. 
+Sincerely, 
+for 
+Roger Castillo 
+Acting FOIA Officer 
+Enclosure 
